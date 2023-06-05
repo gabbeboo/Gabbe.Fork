@@ -4,4 +4,9 @@ public class Head {
         System.out.println("Woof!");
     }
 
+    public void fetch_stick() {
+
+        System.out.println("weeeeeeeeeeeeeeee");
+    }
+
 }
